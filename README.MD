@@ -1,0 +1,1 @@
+A part of project about translation methods containing two exercises written on typescript.
